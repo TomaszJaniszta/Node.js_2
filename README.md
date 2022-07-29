@@ -1,4 +1,4 @@
-# Ads-board - Test project of an application that allows you to manage online offers - notice board.
+# Ads-board - application that allows you to manage online offers - notice board.
 
 Functionality checked with Postman.
 Basic error handling, endpoint nomenclature, support for HTTP methods and returned HTTP response codes.
